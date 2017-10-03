@@ -1753,6 +1753,11 @@ module.exports = function(text, pattern, options) {
     return (best_loc < 0) ? false : true;
 };
 
+	var options = {
+    valueNames: [ 'name', 'city' ]
+};
+
+var hackerList = new List('hacker-list', options);
 
 /***/ })
 /******/ ]);
