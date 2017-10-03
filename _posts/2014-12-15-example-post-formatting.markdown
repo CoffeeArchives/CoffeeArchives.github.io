@@ -56,6 +56,12 @@ Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adip
 
 And now to test the list.js thingie!
 
+var options = {
+    valueNames: [ 'name', 'city' ]
+};
+
+var hackerList = new List('hacker-list', options);
+
 <div id="hacker-list">
   <ul class="list">
     <li>
