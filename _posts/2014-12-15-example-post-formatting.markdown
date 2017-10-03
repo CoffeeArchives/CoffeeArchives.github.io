@@ -2,6 +2,7 @@
 layout: post
 title:  "Example Post Formatting"
 date:   2014-12-15
+datatable: true
 
 ---
 
@@ -57,19 +58,14 @@ Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adip
 
 And now to test the list.js thingie!
 
-<script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+<div class="datatable-begin"></div>
 
-<div id="hacker-list">
-  <ul class="list">
-    <li>
-       <h3 class="name">Jonny</h3>
-       <p class="city">Stockholm</p>
-    </li>
-    <li>
-      <h3 class="name">Jonas</h3>
-      <p class="city">Berlin</p>
-    </li>
-  </ul>
-</div>
+Food    | Description                           | Category | Sample type
+------- | ------------------------------------- | -------- | -----------
+Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
+Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
+<div class="datatable-end"></div>
 
