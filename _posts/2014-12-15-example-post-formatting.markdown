@@ -93,3 +93,89 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
   </tr>
 </table>
 
+<pre><strong>&lt;table class="sortable"&gt;</strong>
+<strong> &lt;thead&gt;</strong>
+<strong>   &lt;tr&gt;</strong>
+<strong>     &lt;th&gt;</strong>Athlete<strong>&lt;/th&gt;</strong>
+<strong>     &lt;th&gt;</strong>Age<strong>&lt;/th&gt;</strong>
+<strong>     &lt;th&gt;</strong>Country<strong>&lt;/th&gt;</strong>
+<strong>     &lt;th&gt;</strong>Gold Medals<strong>&lt;/th&gt;</strong>
+<strong>  &lt;/tr&gt;</strong>
+<strong> &lt;/thead&gt;</strong>
+<strong> &lt;tbody&gt;</strong>
+<strong>   &lt;tr&gt;</strong>
+<strong>    &lt;td&gt;</strong>David Boudia<strong>&lt;/td&gt;</strong>...</pre>
+<h4><a name="example-sortable"></a>Example sortable table&#8211;click on any of the header cells of this table to sort by that column:</h4>
+<h3>2012 Gold Medal Olympic Divers</h3>
+<table class="sortable">
+<thead>
+<tr style="background-color: #ebebeb;">
+<th>Athlete</th>
+<th>Age</th>
+<th>Country</th>
+<th>Gold Medals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>David Boudia</td>
+<td>23</td>
+<td>United States</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Chen Ruolin</td>
+<td>19</td>
+<td>China</td>
+<td>2</td>
+</tr>
+<tr>
+<td>He Zi</td>
+<td>21</td>
+<td>China</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Qin Kai</td>
+<td>26</td>
+<td>China</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Wu Minxia</td>
+<td>26</td>
+<td>China</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Ilya Zakharov</td>
+<td>21</td>
+<td>Russia</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Cao Yuan</td>
+<td>17</td>
+<td>China</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Luo Yutong</td>
+<td>26</td>
+<td>China</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Wang Hao</td>
+<td>19</td>
+<td>China</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Zhang Yanquan</td>
+<td>18</td>
+<td>China</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
