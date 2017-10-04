@@ -75,7 +75,7 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:top}
 </style>
-<table class="sortable">
+<table class="display">
   <tr>
     <th class="tg-yw4l">Color</th>
     <th class="tg-yw4l">Number</th>
@@ -107,7 +107,7 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 <strong>    &lt;td&gt;</strong>David Boudia<strong>&lt;/td&gt;</strong>...</pre>
 <h4><a name="example-sortable"></a>Example sortable table&#8211;click on any of the header cells of this table to sort by that column:</h4>
 <h3>2012 Gold Medal Olympic Divers</h3>
-<table class="sortable">
+<table class="display">
 <thead>
 <tr style="background-color: #ebebeb;">
 <th>Athlete</th>
