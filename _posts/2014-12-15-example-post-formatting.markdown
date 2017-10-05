@@ -14,7 +14,7 @@ I'll be using a scale from one to five cups of joe, which is exactly like the fi
 
 ## Hugo-Winning Short Stories
 
-<p> Click the story names to read the story for free, or the rating number to read my short review. 
+<p> Click the story names to read the story for free, or the rating number to read my short review.</p>
 
 <!-- Place this tag where you want the Awesome Table Widget to render -->
 <div data-type="AwesomeTableView" data-viewID="-KvcbSltunC99ppBDvm1"></div>
