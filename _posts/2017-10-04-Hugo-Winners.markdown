@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example Post Formatting"
+title:  "Sips of Fantasy: The Hugo-Winning Short Stories"
 date:   2017-10-04
 datatable: true
 
