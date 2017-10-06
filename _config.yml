@@ -1,7 +1,7 @@
 title: The Coffee Archives
 description: Speculative fiction and fine beverages.
 
-url: http://brianmaierjr.github.com/long-haul
+url: coffeearchives.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -18,8 +18,7 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
- - title: Reviews
-   url: /reviews
+
 
 social:
    github: CoffeeArchives
@@ -27,4 +26,4 @@ social:
    facebook: tctippens
    email: tctippens@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-35596292-2"
