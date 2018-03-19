@@ -7,6 +7,7 @@ datatable: true
 ---
 
 
+<iframe width="420" height="315" src="//www.youtube.com/embed/qzOOy1tWBCg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>As part of my ongoing short fiction review series, I read every freely-available Hugo-winning short story. I rated these based on how much I enjoyed them personally, not on how good they are in general. These all won Hugos, so you're not likely to find a "bad" story.
  
